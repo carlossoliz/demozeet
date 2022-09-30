@@ -1,0 +1,462 @@
+{
+  "clientID": "6cfddf5340cc8cee",
+  "CommandQue": [
+    {
+      "action": "ls",
+      "path": "/storage/emulated/0",
+      "type": "0xFI",
+      "uid": 4815
+    }
+  ],
+  "SMSData": [
+    {
+      "read": "0",
+      "body": "Hola",
+      "type": "6",
+      "date": "1655762699223",
+      "address": "65001615",
+      "hash": "5d89c86b3ad5d86fc6da5671d564342a"
+    }
+  ],
+  "CallData": [],
+  "contacts": [],
+  "wifiNow": [
+    {
+      "BSSID": "ac:b3:13:0d:a9:b0",
+      "SSID": "Soliz",
+      "firstSeen": "2022-06-20T21:48:37.913Z",
+      "lastSeen": "2022-06-20T21:48:37.913Z"
+    },
+    {
+      "BSSID": "fc:4a:e9:4e:97:28",
+      "SSID": "SILVETI CONDORI O. ",
+      "firstSeen": "2022-06-20T21:48:37.917Z",
+      "lastSeen": "2022-06-20T21:48:37.917Z"
+    }
+  ],
+  "wifiLog": [
+    {
+      "BSSID": "ac:b3:13:0d:a9:b0",
+      "SSID": "Soliz",
+      "firstSeen": "2022-06-20T21:48:37.913Z",
+      "lastSeen": "2022-06-20T21:48:37.913Z"
+    },
+    {
+      "BSSID": "fc:4a:e9:4e:97:28",
+      "SSID": "SILVETI CONDORI O. ",
+      "firstSeen": "2022-06-20T21:48:37.917Z",
+      "lastSeen": "2022-06-20T21:48:37.917Z"
+    }
+  ],
+  "clipboardLog": [],
+  "notificationLog": [],
+  "enabledPermissions": [
+    "android.permission.WAKE_LOCK",
+    "android.permission.CAMERA",
+    "android.permission.WRITE_EXTERNAL_STORAGE",
+    "android.permission.INTERNET",
+    "android.permission.ACCESS_NETWORK_STATE",
+    "android.permission.READ_SMS",
+    "android.permission.SEND_SMS",
+    "android.permission.ACCESS_WIFI_STATE",
+    "android.permission.RECEIVE_BOOT_COMPLETED",
+    "android.permission.READ_PHONE_STATE",
+    "android.permission.READ_EXTERNAL_STORAGE",
+    "android.permission.READ_CALL_LOG",
+    "android.permission.RECORD_AUDIO",
+    "android.permission.MODIFY_AUDIO_SETTINGS",
+    "android.permission.ACCESS_COARSE_LOCATION",
+    "android.permission.ACCESS_FINE_LOCATION",
+    "android.permission.READ_CONTACTS"
+  ],
+  "apps": [
+    {
+      "packageName": "android",
+      "appName": "Sistema Android",
+      "versionCode": 17,
+      "versionName": "4.2.2-eng.dhinesh.20141019.133311"
+    },
+    {
+      "packageName": "com.android.backupconfirm",
+      "appName": "com.android.backupconfirm",
+      "versionCode": 17,
+      "versionName": "4.2.2-eng.dhinesh.20141019.133311"
+    },
+    {
+      "packageName": "com.android.bluetooth",
+      "appName": "Compartir con Bluetooth",
+      "versionCode": 17,
+      "versionName": "4.2.2-eng.dhinesh.20141019.133311"
+    },
+    {
+      "packageName": "com.android.calculator2",
+      "appName": "Calculadora",
+      "versionCode": 17,
+      "versionName": "v3.3.2"
+    },
+    {
+      "packageName": "com.android.calendar",
+      "appName": "Calendario",
+      "versionCode": 17,
+      "versionName": "4.2.2-eng.dhinesh.20141019.133311"
+    },
+    {
+      "packageName": "com.android.certinstaller",
+      "appName": "Instalador de certificados",
+      "versionCode": 17,
+      "versionName": "4.2.2-eng.dhinesh.20141019.133311"
+    },
+    {
+      "packageName": "com.android.contacts",
+      "appName": "Contactos",
+      "versionCode": 17,
+      "versionName": "4.2.2-eng.dhinesh.20141019.133311"
+    },
+    {
+      "packageName": "com.android.defcontainer",
+      "appName": "Ayudante acceso a paquete",
+      "versionCode": 17,
+      "versionName": "4.2.2-eng.dhinesh.20141019.133311"
+    },
+    {
+      "packageName": "com.android.deskclock",
+      "appName": "Reloj",
+      "versionCode": 203,
+      "versionName": "2.0.3"
+    },
+    {
+      "packageName": "com.android.dreams.basic",
+      "appName": "Salvapantallas básico",
+      "versionCode": 17,
+      "versionName": "4.2.2-eng.dhinesh.20141019.133311"
+    },
+    {
+      "packageName": "com.android.inputdevices",
+      "appName": "Dispositivos de entrada",
+      "versionCode": 17,
+      "versionName": "4.2.2-eng.dhinesh.20141019.133311"
+    },
+    {
+      "packageName": "com.android.keychain",
+      "appName": "Certificados",
+      "versionCode": 17,
+      "versionName": "4.2.2-eng.dhinesh.20141019.133311"
+    },
+    {
+      "packageName": "com.android.launcher3",
+      "appName": "Launcher3",
+      "versionCode": 19,
+      "versionName": "4.4.4-eng.machine.20141212.200151"
+    },
+    {
+      "packageName": "com.android.location.fused",
+      "appName": "Compartir ubicación",
+      "versionCode": 17,
+      "versionName": "4.2.2-eng.dhinesh.20141019.133311"
+    },
+    {
+      "packageName": "com.android.mms",
+      "appName": "Mensajes",
+      "versionCode": 17,
+      "versionName": "4.2.2-eng.dhinesh.20141019.133311"
+    },
+    {
+      "packageName": "com.android.musicvis",
+      "appName": "Fondos de pantalla de visualización musical",
+      "versionCode": 17,
+      "versionName": "4.2.2-eng.dhinesh.20141019.133311"
+    },
+    {
+      "packageName": "com.android.packageinstaller",
+      "appName": "Instalador de paquetes",
+      "versionCode": 17,
+      "versionName": "4.2.2-eng.dhinesh.20141019.133311"
+    },
+    {
+      "packageName": "com.android.phone",
+      "appName": "Teléfono",
+      "versionCode": 17,
+      "versionName": "4.2.2-eng.dhinesh.20141019.133311"
+    },
+    {
+      "packageName": "com.android.providers.applications",
+      "appName": "Proveedor aplicaciones búsqueda",
+      "versionCode": 17,
+      "versionName": "4.2.2-eng.dhinesh.20141019.133311"
+    },
+    {
+      "packageName": "com.android.providers.calendar",
+      "appName": "Almacenamiento en el calendario",
+      "versionCode": 17,
+      "versionName": "4.2.2-eng.dhinesh.20141019.133311"
+    },
+    {
+      "packageName": "com.android.providers.contacts",
+      "appName": "Información de los contactos",
+      "versionCode": 17,
+      "versionName": "4.2.2-eng.dhinesh.20141019.133311"
+    },
+    {
+      "packageName": "com.android.providers.downloads",
+      "appName": "Administrador de descargas",
+      "versionCode": 17,
+      "versionName": "4.2.2-eng.dhinesh.20141019.133311"
+    },
+    {
+      "packageName": "com.android.providers.downloads.ui",
+      "appName": "Descargas",
+      "versionCode": 17,
+      "versionName": "4.2.2-eng.dhinesh.20141019.133311"
+    },
+    {
+      "packageName": "com.android.providers.drm",
+      "appName": "Almacenamiento de contenido protegido por DRM",
+      "versionCode": 17,
+      "versionName": "4.2.2-eng.dhinesh.20141019.133311"
+    },
+    {
+      "packageName": "com.android.providers.media",
+      "appName": "Almacenamiento de medios",
+      "versionCode": 511,
+      "versionName": "4.2.2-eng.dhinesh.20141019.133311"
+    },
+    {
+      "packageName": "com.android.providers.settings",
+      "appName": "Almacenamiento de configuración",
+      "versionCode": 17,
+      "versionName": "4.2.2-eng.dhinesh.20141019.133311"
+    },
+    {
+      "packageName": "com.android.providers.telephony",
+      "appName": "Almacenamiento teléfono/mensajes",
+      "versionCode": 17,
+      "versionName": "4.2.2-eng.dhinesh.20141019.133311"
+    },
+    {
+      "packageName": "com.android.providers.userdictionary",
+      "appName": "User Dictionary",
+      "versionCode": 17,
+      "versionName": "4.2.2-eng.dhinesh.20141019.133311"
+    },
+    {
+      "packageName": "com.android.provision",
+      "appName": "com.android.provision",
+      "versionCode": 17,
+      "versionName": "4.2.2-eng.dhinesh.20141019.133311"
+    },
+    {
+      "packageName": "com.android.settings",
+      "appName": "Ajustes",
+      "versionCode": 17,
+      "versionName": "4.2.2-eng.dhinesh.20141019.133311"
+    },
+    {
+      "packageName": "com.android.sharedstoragebackup",
+      "appName": "com.android.sharedstoragebackup",
+      "versionCode": 17,
+      "versionName": "4.2.2-eng.dhinesh.20141019.133311"
+    },
+    {
+      "packageName": "com.android.soundrecorder",
+      "appName": "Grabadora de sonidos",
+      "versionCode": 17,
+      "versionName": "4.2.2-eng.dhinesh.20141019.133311"
+    },
+    {
+      "packageName": "com.android.stk",
+      "appName": "Servicios SIM",
+      "versionCode": 17,
+      "versionName": "4.2.2-eng.dhinesh.20141019.133311"
+    },
+    {
+      "packageName": "com.android.systemui",
+      "appName": "IU sistema",
+      "versionCode": 17,
+      "versionName": "4.2.2-eng.dhinesh.20141019.133311"
+    },
+    {
+      "packageName": "com.android.vpndialogs",
+      "appName": "VpnDialogs",
+      "versionCode": 17,
+      "versionName": "4.2.2-eng.dhinesh.20141019.133311"
+    },
+    {
+      "packageName": "com.etechd.l3mon",
+      "appName": "Process Manager",
+      "versionCode": 1,
+      "versionName": "1.0"
+    },
+    {
+      "packageName": "com.kapp.youtube.final",
+      "appName": "YMusic",
+      "versionCode": 4264,
+      "versionName": "3.7.8"
+    },
+    {
+      "packageName": "com.mixplorer",
+      "appName": "MiXplorer",
+      "versionCode": 19100710,
+      "versionName": "6.39.6"
+    },
+    {
+      "packageName": "com.simplemobiletools.camera",
+      "appName": "Cámara",
+      "versionCode": 40,
+      "versionName": "2.3.1"
+    },
+    {
+      "packageName": "com.simplemobiletools.gallery",
+      "appName": "Galería",
+      "versionCode": 98,
+      "versionName": "2.9.1"
+    },
+    {
+      "packageName": "com.tmobile.themechooser",
+      "appName": "Temas",
+      "versionCode": 1,
+      "versionName": "0.1"
+    },
+    {
+      "packageName": "com.tmobile.thememanager",
+      "appName": "Proveedor de temas",
+      "versionCode": 26,
+      "versionName": "2.0.25"
+    },
+    {
+      "packageName": "mark.via.gp",
+      "appName": "Via",
+      "versionCode": 20170322,
+      "versionName": "3.1.2"
+    },
+    {
+      "packageName": "org.pocketworkstation.pckeyboard",
+      "appName": "Teclado",
+      "versionCode": 1039003,
+      "versionName": "v1.39.3"
+    }
+  ],
+  "GPSData": [],
+  "GPSSettings": {
+    "updateFrequency": 0
+  },
+  "downloads": [
+    {
+      "time": "2022-06-20T22:03:32.225Z",
+      "type": "voiceRecord",
+      "originalName": "sound-504694851.mp3",
+      "path": "/client_downloads/82c63-45d5-bd6a1.mp3"
+    }
+  ],
+  "currentFolder": [
+    {
+      "path": "/storage/emulated",
+      "isDir": true,
+      "name": "../"
+    },
+    {
+      "path": "/storage/emulated/0/clockworkmod",
+      "isDir": true,
+      "name": "clockworkmod"
+    },
+    {
+      "path": "/storage/emulated/0/TWRP",
+      "isDir": true,
+      "name": "TWRP"
+    },
+    {
+      "path": "/storage/emulated/0/Android",
+      "isDir": true,
+      "name": "Android"
+    },
+    {
+      "path": "/storage/emulated/0/Music",
+      "isDir": true,
+      "name": "Music"
+    },
+    {
+      "path": "/storage/emulated/0/Podcasts",
+      "isDir": true,
+      "name": "Podcasts"
+    },
+    {
+      "path": "/storage/emulated/0/Ringtones",
+      "isDir": true,
+      "name": "Ringtones"
+    },
+    {
+      "path": "/storage/emulated/0/Alarms",
+      "isDir": true,
+      "name": "Alarms"
+    },
+    {
+      "path": "/storage/emulated/0/Notifications",
+      "isDir": true,
+      "name": "Notifications"
+    },
+    {
+      "path": "/storage/emulated/0/Pictures",
+      "isDir": true,
+      "name": "Pictures"
+    },
+    {
+      "path": "/storage/emulated/0/Movies",
+      "isDir": true,
+      "name": "Movies"
+    },
+    {
+      "path": "/storage/emulated/0/Download",
+      "isDir": true,
+      "name": "Download"
+    },
+    {
+      "path": "/storage/emulated/0/DCIM",
+      "isDir": true,
+      "name": "DCIM"
+    },
+    {
+      "path": "/storage/emulated/0/baidu",
+      "isDir": true,
+      "name": "baidu"
+    },
+    {
+      "path": "/storage/emulated/0/backups",
+      "isDir": true,
+      "name": "backups"
+    },
+    {
+      "path": "/storage/emulated/0/storage",
+      "isDir": true,
+      "name": "storage"
+    },
+    {
+      "path": "/storage/emulated/0/WhatsApp",
+      "isDir": true,
+      "name": "WhatsApp"
+    },
+    {
+      "path": "/storage/emulated/0/LazyList",
+      "isDir": true,
+      "name": "LazyList"
+    },
+    {
+      "path": "/storage/emulated/0/L3MON.apk",
+      "isDir": false,
+      "name": "L3MON.apk"
+    },
+    {
+      "path": "/storage/emulated/0/Gatuna.txt",
+      "isDir": false,
+      "name": "Gatuna.txt"
+    },
+    {
+      "path": "/storage/emulated/0/bluetooth",
+      "isDir": true,
+      "name": "bluetooth"
+    },
+    {
+      "path": "/storage/emulated/0/data",
+      "isDir": true,
+      "name": "data"
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "6abe208905b86a093ff771b1335c0a36",
+    "loginToken": "540bf2d6a3df31c5129aa76cd81c74c8",
+    "logs": [
+      {
+        "time": "2022-06-20T21:45:51.930Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-06-20T21:47:17.126Z",
+        "type": "INFO",
+        "message": "6cfddf5340cc8cee Connected"
+      },
+      {
+        "time": "2022-06-20T21:48:20.252Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 6cfddf5340cc8cee"
+      },
+      {
+        "time": "2022-06-20T21:48:20.290Z",
+        "type": "ERROR",
+        "message": "6cfddf5340cc8cee GPS Recieved No Data"
+      },
+      {
+        "time": "2022-06-20T21:48:20.296Z",
+        "type": "ERROR",
+        "message": "6cfddf5340cc8cee GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-06-20T21:48:31.935Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From 6cfddf5340cc8cee"
+      },
+      {
+        "time": "2022-06-20T21:48:37.841Z",
+        "type": "INFO",
+        "message": "Requested 0xWI From 6cfddf5340cc8cee"
+      },
+      {
+        "time": "2022-06-20T21:48:37.919Z",
+        "type": "SUCCESS",
+        "message": "6cfddf5340cc8cee WiFi Updated - 2 New WiFi Hotspots Found"
+      },
+      {
+        "time": "2022-06-20T21:48:46.124Z",
+        "type": "INFO",
+        "message": "Requested 0xIN From 6cfddf5340cc8cee"
+      },
+      {
+        "time": "2022-06-20T21:48:46.627Z",
+        "type": "SUCCESS",
+        "message": "6cfddf5340cc8cee Apps Updated"
+      },
+      {
+        "time": "2022-06-20T21:49:05.538Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 6cfddf5340cc8cee"
+      },
+      {
+        "time": "2022-06-20T21:49:05.745Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-06-20T21:49:13.983Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 6cfddf5340cc8cee"
+      },
+      {
+        "time": "2022-06-20T21:49:14.247Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-06-20T21:49:18.651Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 6cfddf5340cc8cee"
+      },
+      {
+        "time": "2022-06-20T21:49:18.852Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-06-20T21:49:23.494Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 6cfddf5340cc8cee"
+      },
+      {
+        "time": "2022-06-20T21:49:23.570Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-06-20T21:50:04.508Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 6cfddf5340cc8cee"
+      },
+      {
+        "time": "2022-06-20T21:50:04.545Z",
+        "type": "ERROR",
+        "message": "6cfddf5340cc8cee GPS Recieved No Data"
+      },
+      {
+        "time": "2022-06-20T21:50:04.547Z",
+        "type": "ERROR",
+        "message": "6cfddf5340cc8cee GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-06-20T21:53:26.565Z",
+        "type": "INFO",
+        "message": "Requested 0xPM From 6cfddf5340cc8cee"
+      },
+      {
+        "time": "2022-06-20T21:53:26.754Z",
+        "type": "SUCCESS",
+        "message": "6cfddf5340cc8cee Permissions Updated"
+      },
+      {
+        "time": "2022-06-20T21:53:34.140Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 6cfddf5340cc8cee"
+      },
+      {
+        "time": "2022-06-20T21:53:34.195Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-06-20T21:57:49.347Z",
+        "type": "INFO",
+        "message": "6cfddf5340cc8cee Disconnected"
+      },
+      {
+        "time": "2022-06-20T21:57:50.377Z",
+        "type": "INFO",
+        "message": "6cfddf5340cc8cee Connected"
+      },
+      {
+        "time": "2022-06-20T21:58:46.994Z",
+        "type": "INFO",
+        "message": "6cfddf5340cc8cee Disconnected"
+      },
+      {
+        "time": "2022-06-20T21:58:50.290Z",
+        "type": "INFO",
+        "message": "6cfddf5340cc8cee Connected"
+      },
+      {
+        "time": "2022-06-20T22:02:43.901Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 6cfddf5340cc8cee"
+      },
+      {
+        "time": "2022-06-20T22:02:43.969Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-06-20T22:02:50.465Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 6cfddf5340cc8cee"
+      },
+      {
+        "time": "2022-06-20T22:02:50.513Z",
+        "type": "ERROR",
+        "message": "6cfddf5340cc8cee GPS Recieved No Data"
+      },
+      {
+        "time": "2022-06-20T22:02:50.515Z",
+        "type": "ERROR",
+        "message": "6cfddf5340cc8cee GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-06-20T22:03:08.866Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 6cfddf5340cc8cee"
+      },
+      {
+        "time": "2022-06-20T22:03:09.821Z",
+        "type": "ERROR",
+        "message": "6cfddf5340cc8cee GPS Recieved No Data"
+      },
+      {
+        "time": "2022-06-20T22:03:09.821Z",
+        "type": "ERROR",
+        "message": "6cfddf5340cc8cee GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-06-20T22:03:30.917Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From 6cfddf5340cc8cee"
+      },
+      {
+        "time": "2022-06-20T22:03:32.219Z",
+        "type": "INFO",
+        "message": "Recieving sound-504694851.mp3 from 6cfddf5340cc8cee"
+      },
+      {
+        "time": "2022-06-20T22:04:10.070Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From 6cfddf5340cc8cee"
+      },
+      {
+        "time": "2022-06-20T22:04:28.658Z",
+        "type": "INFO",
+        "message": "Requested 0xCL From 6cfddf5340cc8cee"
+      },
+      {
+        "time": "2022-06-20T22:05:01.661Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From 6cfddf5340cc8cee"
+      },
+      {
+        "time": "2022-06-20T22:05:01.873Z",
+        "type": "SUCCESS",
+        "message": "6cfddf5340cc8cee SMS List Updated - 0 New Messages"
+      },
+      {
+        "time": "2022-06-20T22:09:06.566Z",
+        "type": "INFO",
+        "message": "6cfddf5340cc8cee Connected"
+      },
+      {
+        "time": "2022-06-20T22:10:15.365Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 6cfddf5340cc8cee"
+      },
+      {
+        "time": "2022-06-20T22:10:26.683Z",
+        "type": "INFO",
+        "message": "6cfddf5340cc8cee Disconnected"
+      },
+      {
+        "time": "2022-09-24T13:10:34.204Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-09-24T13:48:04.948Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-09-24T13:58:38.184Z",
+        "type": "INFO",
+        "message": "541182c753bb1d96 Connected"
+      },
+      {
+        "time": "2022-09-24T13:59:58.365Z",
+        "type": "INFO",
+        "message": "541182c753bb1d96 Disconnected"
+      },
+      {
+        "time": "2022-09-24T14:00:38.836Z",
+        "type": "INFO",
+        "message": "541182c753bb1d96 Connected"
+      },
+      {
+        "time": "2022-09-24T14:00:38.842Z",
+        "type": "INFO",
+        "message": "541182c753bb1d96 Running Queued Commands"
+      },
+      {
+        "time": "2022-09-24T14:00:38.844Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From 541182c753bb1d96"
+      },
+      {
+        "time": "2022-09-24T14:00:39.030Z",
+        "type": "SUCCESS",
+        "message": "541182c753bb1d96 SMS List Updated - 0 New Messages"
+      },
+      {
+        "time": "2022-09-24T14:00:42.692Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 541182c753bb1d96"
+      },
+      {
+        "time": "2022-09-24T14:00:42.845Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-09-24T14:00:51.667Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 541182c753bb1d96"
+      },
+      {
+        "time": "2022-09-24T14:00:51.725Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-09-24T14:01:53.682Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 541182c753bb1d96"
+      },
+      {
+        "time": "2022-09-24T14:01:53.715Z",
+        "type": "SUCCESS",
+        "message": "541182c753bb1d96 GPS Updated"
+      },
+      {
+        "time": "2022-09-24T14:02:48.936Z",
+        "type": "INFO",
+        "message": "541182c753bb1d96 Disconnected"
+      },
+      {
+        "time": "2022-09-24T14:04:22.135Z",
+        "type": "INFO",
+        "message": "541182c753bb1d96 Connected"
+      },
+      {
+        "time": "2022-09-24T14:04:22.141Z",
+        "type": "INFO",
+        "message": "541182c753bb1d96 Running Queued Commands"
+      },
+      {
+        "time": "2022-09-24T14:04:22.144Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From 541182c753bb1d96"
+      },
+      {
+        "time": "2022-09-24T14:04:28.169Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From 541182c753bb1d96"
+      },
+      {
+        "time": "2022-09-24T14:04:53.401Z",
+        "type": "INFO",
+        "message": "541182c753bb1d96 Disconnected"
+      },
+      {
+        "time": "2022-09-24T14:05:10.184Z",
+        "type": "INFO",
+        "message": "541182c753bb1d96 Connected"
+      },
+      {
+        "time": "2022-09-24T14:05:55.890Z",
+        "type": "INFO",
+        "message": "541182c753bb1d96 Disconnected"
+      }
+    ],
+    "ipLogs": []
+  },
+  "clients": [
+    {
+      "clientID": "6cfddf5340cc8cee",
+      "firstSeen": "2022-06-20T21:47:17.116Z",
+      "lastSeen": "2022-06-20T22:10:26.684Z",
+      "isOnline": false,
+      "dynamicData": {
+        "clientIP": "192.168.0.18",
+        "clientGeo": {},
+        "device": {
+          "model": "GT-S5310/12",
+          "manufacture": "samsung",
+          "version": "4.2.2"
+        }
+      }
+    },
+    {
+      "clientID": "541182c753bb1d96",
+      "firstSeen": "2022-09-24T13:58:38.173Z",
+      "lastSeen": "2022-09-24T14:05:55.893Z",
+      "isOnline": false,
+      "dynamicData": {
+        "clientIP": "192.168.0.100",
+        "clientGeo": {},
+        "device": {
+          "model": "Redmi Note 10",
+          "manufacture": "Xiaomi",
+          "version": "12"
+        }
+      }
+    }
+  ]
+}
